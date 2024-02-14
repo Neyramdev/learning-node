@@ -1,2 +1,3 @@
-# learning-node
-Aprendiendo node js
+# Learning NodeJs
+
+**Learning to work with node js**
