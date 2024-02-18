@@ -4,6 +4,6 @@
 
 | Technologies  | Approved       |
 | ------------- |:-------------:|
-| NodeJs        | * [x] yes     |    
+| NodeJs        |:white_check_mark:|    
 
 * [x] yes
