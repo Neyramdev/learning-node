@@ -4,4 +4,4 @@
 
 | Technologies  | Aproved       |
 | ------------- |:-------------:|
-| NodeJs        | *[x] yes |    
+| NodeJs        | * [x] yes |    
