@@ -2,5 +2,6 @@
 
 **Learning to work with node js**
 
-| Technologies  | Aproved |
-| NodeJs        | *[x] yes |
+| Technologies  | Aproved       |
+| ------------- |:-------------:|
+| NodeJs        | *[x] yes |    
